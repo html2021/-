@@ -1,0 +1,30 @@
+html {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.se {
+	background-color:rgba(105,105,105,0.2);
+	padding:0;
+	line-height:1.2;
+}
+.center {
+	text-align:center;
+}
+.game button {
+    background-color:transparent;
+    border:none;
+    cursor:pointer;
+    outline:none;
+    padding:0;
+    appearance:none;
+	background-color: rgba(255, 127, 80, 0.6);
+	height:120px;
+	width:200px;
+	font-size:50px;
+	font-weight:500;
+	font-family:'M PLUS Rounded 1c', sans-serif;
+}
+.game span {
+	font-weight:500;
+	font-size: 50px;
+	font-family:'M PLUS Rounded 1c', sans-serif;
+}
